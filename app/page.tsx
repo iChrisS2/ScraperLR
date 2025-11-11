@@ -29,7 +29,7 @@ interface ProductToAdd {
 }
 
 const CATEGORIAS = [
-  "Hoodies", "Jackets", "Shorts", "Shoes", "Accessories", "T-shirt", "Pants", "Girls", "Tracksuits", "Electronics"
+  "Hoodies", "Jackets", "Shorts", "Shoes", "Accessories", "T-shirt", "Pants", "Girls", "Tracksuits"
 ];
 
 const MARCAS = [
@@ -546,3 +546,4 @@ export default function ScrapingPage() {
     </div>
   );
 }
+
